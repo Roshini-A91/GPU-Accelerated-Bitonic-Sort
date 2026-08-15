@@ -1,0 +1,10 @@
+========================================
+GPU-Accelerated Bitonic Sort
+========================================
+Dataset size       : 1048576 elements
+CPU std::sort time : 86.5191 ms
+GPU kernel time    : 5.33933 ms
+CPU verification   : PASSED
+GPU verification   : PASSED
+Results match      : YES
+========================================
